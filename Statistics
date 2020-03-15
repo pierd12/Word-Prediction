@@ -1,0 +1,24 @@
+***************    Step 1 Statics     **************
+*Without local aggregation
+**Number Of KEYS:715530624
+**Size Of KEYS:25.63 GB
+*With local aggregation
+**Number Of KEYS:14426085
+**Size Of KEYS:0.26GB
+
+***************    Step 2 Statics     **************
+*Without local aggregation
+**Number Of KEYS:14005861
+**Size Of KEYS:0.56 GB
+*With local aggregation
+**Number Of KEYS:14005861
+**Size Of KEYS:0.56GB
+
+***************    Step 3 Statics     **************
+*Without local aggregation
+**Number Of KEYS:2803960
+**Size Of KEYS:0.086 GB
+*With local aggregation
+**Number Of KEYS:2803960
+**Size Of KEYS:0.086 GB
+
